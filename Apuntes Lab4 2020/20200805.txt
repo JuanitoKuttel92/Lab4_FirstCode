@@ -1,0 +1,26 @@
+Iniciar repo
+    • git init
+Verificar estado
+    • git status
+Add to Stage
+    • git add <filename>
+    • git add <filename>
+Commit
+    • git commit -m "Mensaje"
+Add and commit
+    • git commit -a -m "Mensaje"
+Revertir archivos a cache
+    • git rm --cached <filename>
+    • git rm --cached -r .
+Ver historia del repositorio
+    • git log
+Ver ramas
+    • git branch
+Crear ramas
+    • git branch <branch_name>
+Traer lo que hay en otra ramas
+    • git checkout <branch_name>
+Traer un repo de la web con Clone
+    • git clone <urlrepo>
+
+Este cambio no esta en la otra rama, avanzaron ambas por separado
